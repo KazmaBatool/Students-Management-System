@@ -50,10 +50,12 @@ Organized and user-friendly layout
 Install XAMPP / Laragon / WAMP
 
 Place the project folder inside the htdocs or www directory
+
 Start Apache server
 
 Open browser and visit:
-http://localhost/srudents/form.php
+
+http://localhost/your-folder-name/form.php
 📌 Future Improvements
 
 MySQL Database integration
@@ -65,10 +67,15 @@ Search & pagination
 Advanced UI dashboard
 
 🎥 Project Working Video
+
 You can watch the complete working demonstration here:
+
 👉 https://drive.google.com/file/d/1H8bhc41M3mI641CD6IUOF_AL4-oVQhoL/view?usp=drive_link
 
 👩‍💻 Developed By
+
+Kazma Batool
+Computer Science Student
 
 Kazma Batool
 Computer Science Student
