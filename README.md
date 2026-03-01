@@ -64,7 +64,7 @@ Advanced UI dashboard
 
 You can watch the complete working demonstration here:
 
-👉 https://drive.google.com/file/d/1H8bhc41M3mI641CD6IUOF_AL4-oVQhoL/view?usp=drive_link
+👉 https://drive.google.com/file/d/1VNGqMg7KUIqrCQ_qLTglLWTk2eClIqoq/view?usp=drive_link
 
 👩‍💻 Developed By
 
