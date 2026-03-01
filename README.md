@@ -5,11 +5,8 @@ This is a simple and professional Student Management System developed using PHP 
 It allows users to:
 
 ➕ Add new students
-
 📖 View student records
-
 ✏️ Edit student details
-
 🗑️ Delete student records
 
 The project is designed with a clean university-style admin panel theme using professional color combinations and responsive layout.
@@ -17,9 +14,7 @@ The project is designed with a clean university-style admin panel theme using pr
 🛠 Technologies Used
 
 PHP
-
 HTML5
-
 CSS3
 
 PHP Sessions (for temporary data storage)
@@ -41,7 +36,6 @@ Separate Registration Form page
 Organized and user-friendly layout
 
 📂 Project Structure
-/project-folder
 │── form.php        (Student Registration Form)
 │── students.php    (Students List + Edit/Delete)
 │── README.md
